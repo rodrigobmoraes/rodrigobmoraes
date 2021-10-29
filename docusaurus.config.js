@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Bipper',
     tagline: 'Sua Solução em business intelligence',
-    url: 'http://www.uppercase.com.br/bipper/',
-    baseUrl: '/',
+    url: 'https://rodrigobmoraes.github.io',
+    baseUrl: '/rodrigobmoraes/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-bipper.ico',
-    organizationName: 'facebook', // Usually your GitHub org/user name.
-    projectName: 'docusaurus', // Usually your repo name.
+    organizationName: 'rodrigobmoraes', // Usually your GitHub org/user name.
+    projectName: 'rodrigobmoraes', // Usually your repo name.
 
     presets: [
         [
