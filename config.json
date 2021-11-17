@@ -1,10 +1,10 @@
 {
   "index_name": "uppercase",
   "start_urls" [
-    "http://192.168.16.148:3000/"
+    "https://rodrigobmoraes.github.io/rodrigobmoraes/"
   ],
   "sitemap_urls": [
-    "http://192.168.16.148:3000/sitemap.xml"
+    "https://rodrigobmoraes.github.io/rodrigobmoraes/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [

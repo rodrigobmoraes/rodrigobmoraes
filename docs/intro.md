@@ -5,6 +5,6 @@ slug: /
 
 # Introdução
 
-Em poucas palavras, um **release** é um documento disponibilizado para nossos clientes. Com o intuito de comunicação, como um lançamento, melhorias, correções, uma notificação ou qualquer outra novidade. Com o principal objetivo de comunicar aos clientes sobre algo que podem considerar relevante.
+Em poucas palavras, um **release** é um documento disponibilizado para nossos clientes, com o intuito de informa-los sobre as melhorias, correções ou qualquer outra novidade adicionada ao sistema BIPPER. 
 
-O Bipper disponibiliza todas as alterações feitas no sistema para controle de versão e histórico de melhorias.
+Através desse release, o usuário poderá acompanhar a entrega dos desenvolvimentos solicitados e conhecer as melhorias que estão sendo adicionadas em cada versão do sistema.

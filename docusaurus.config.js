@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Bipper',
     tagline: 'Sua Solução em business intelligence',
-    url: 'http://192.168.16.148:3000',
-    baseUrl: '/',
+    url: 'https://rodrigobmoraes.github.io/rodrigobmoraes/',
+    baseUrl: 'https://rodrigobmoraes.github.io/rodrigobmoraes/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-bipper.ico',
