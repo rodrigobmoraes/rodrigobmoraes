@@ -1,0 +1,23 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "Introdução",
+  "description": "Em poucas palavras, um release é um documento disponibilizado para nossos clientes, com o intuito de informa-los sobre as melhorias, correções ou qualquer outra novidade adicionada ao sistema BIPPER.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Versão 6.2.0",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.0"
+  }
+}

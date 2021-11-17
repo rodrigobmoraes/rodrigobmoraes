@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Eventos/versao-6.2.6",
+  "id": "Eventos/versao-6.2.6",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.6",
+  "description": "Correções",
+  "source": "@site/docs/70 - Eventos/versao-6.2.6.md",
+  "sourceDirName": "70 - Eventos",
+  "slug": "/Eventos/versao-6.2.6",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.6",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.5",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.5"
+  },
+  "next": {
+    "title": "Versão 6.2.7",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.7"
+  }
+}

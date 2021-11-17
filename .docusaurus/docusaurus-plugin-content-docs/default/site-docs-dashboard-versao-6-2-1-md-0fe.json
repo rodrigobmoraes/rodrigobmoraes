@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Dashboard/versao-6.2.1",
+  "id": "Dashboard/versao-6.2.1",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.1",
+  "description": "BIP-2285 Criar controle de agrupamento na estrutura de painéis.",
+  "source": "@site/docs/Dashboard/versao-6.2.1.md",
+  "sourceDirName": "Dashboard",
+  "slug": "/Dashboard/versao-6.2.1",
+  "permalink": "/Dashboard/versao-6.2.1",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.3",
+    "permalink": "/Campos Demonstrativos/versao-6.2.3"
+  },
+  "next": {
+    "title": "Versão 6.2.2",
+    "permalink": "/Dashboard/versao-6.2.2"
+  }
+}

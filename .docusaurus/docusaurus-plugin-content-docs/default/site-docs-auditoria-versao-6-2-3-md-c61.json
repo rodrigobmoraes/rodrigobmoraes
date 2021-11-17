@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Auditoria/versao-6.2.3",
+  "id": "Auditoria/versao-6.2.3",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.3",
+  "description": "BIP-2270 Ajustar sincronização para baixar apenas localizações referentes às campanhas de auditoria.",
+  "source": "@site/docs/Auditoria/versao-6.2.3.md",
+  "sourceDirName": "Auditoria",
+  "slug": "/Auditoria/versao-6.2.3",
+  "permalink": "/Auditoria/versao-6.2.3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.7",
+    "permalink": "/Administração/versao-6.2.7"
+  },
+  "next": {
+    "title": "Versão 6.2.6",
+    "permalink": "/Auditoria/versao-6.2.6"
+  }
+}

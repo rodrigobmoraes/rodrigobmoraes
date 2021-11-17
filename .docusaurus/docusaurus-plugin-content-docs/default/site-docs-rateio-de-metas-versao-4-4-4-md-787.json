@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rateio de Metas/versao-4.4.4",
+  "id": "Rateio de Metas/versao-4.4.4",
+  "isDocsHomePage": false,
+  "title": "Versão 4.4.4",
+  "description": "Melhorias",
+  "source": "@site/docs/Rateio de Metas/versao-4.4.4.md",
+  "sourceDirName": "Rateio de Metas",
+  "slug": "/Rateio de Metas/versao-4.4.4",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-4.4.4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 4.4.4",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-4.4.4"
+  },
+  "next": {
+    "title": "Versão 4.4.4",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/versao-4.4.4"
+  }
+}

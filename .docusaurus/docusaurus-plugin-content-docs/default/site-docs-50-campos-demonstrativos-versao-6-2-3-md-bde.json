@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campos Demonstrativos/versao-6.2.3",
+  "id": "Campos Demonstrativos/versao-6.2.3",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.3",
+  "description": "BIP-2368 Implementar no modulo de inicialização da página uma padronização.",
+  "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.3.md",
+  "sourceDirName": "50 - Campos Demonstrativos",
+  "slug": "/Campos Demonstrativos/versao-6.2.3",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.2",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.2"
+  },
+  "next": {
+    "title": "Versão 6.2.5",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.5"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Broca Cana/versao-6.2.7",
+  "id": "Broca Cana/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "BIP-840 Autenticação biométrica para o aplicativo Broca Cana.",
+  "source": "@site/docs/Broca Cana/versao-6.2.7.md",
+  "sourceDirName": "Broca Cana",
+  "slug": "/Broca Cana/versao-6.2.7",
+  "permalink": "/Broca Cana/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.5",
+    "permalink": "/Broca Cana/versao-6.2.5"
+  },
+  "next": {
+    "title": "Versão 6.2.0",
+    "permalink": "/Campanha Marketing/versao-6.2.0"
+  }
+}

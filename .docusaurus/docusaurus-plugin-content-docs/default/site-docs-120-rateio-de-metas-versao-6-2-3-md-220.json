@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rateio de Metas/versao-6.2.3",
+  "id": "Rateio de Metas/versao-6.2.3",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.3",
+  "description": "Correções",
+  "source": "@site/docs/120 - Rateio de Metas/versao-6.2.3.md",
+  "sourceDirName": "120 - Rateio de Metas",
+  "slug": "/Rateio de Metas/versao-6.2.3",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.2",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.2"
+  },
+  "next": {
+    "title": "Versão 6.2.5",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.5"
+  }
+}

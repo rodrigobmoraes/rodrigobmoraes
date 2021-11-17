@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Dashboard/versao-6.2.7",
+  "id": "Dashboard/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "BIP-1001  Criar parâmetro para definir o tipo de ano que será exibido por padrão na página de Dashboard Inicial.",
+  "source": "@site/docs/Dashboard/versao-6.2.7.md",
+  "sourceDirName": "Dashboard",
+  "slug": "/Dashboard/versao-6.2.7",
+  "permalink": "/Dashboard/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.5",
+    "permalink": "/Dashboard/versao-6.2.5"
+  },
+  "next": {
+    "title": "Versão 4.4.4",
+    "permalink": "/Eventos/versao-4.4.4"
+  }
+}

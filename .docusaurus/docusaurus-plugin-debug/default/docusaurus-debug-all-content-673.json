@@ -1,0 +1,1983 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/",
+          "tagsPath": "/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\UPPERCASE\\GIT\\Docusaurus\\sidebars.js",
+          "contentPath": "D:\\UPPERCASE\\GIT\\Docusaurus\\docs",
+          "contentPathLocalized": "D:\\UPPERCASE\\GIT\\Docusaurus\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Administração",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.4"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Administração/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Auditoria",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Auditoria/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Auditoria/versao-6.2.6"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Broca Cana",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Broca Cana/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Broca Cana/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Broca Cana/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Campanha Marketing",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campanha Marketing/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Campos Demonstrativos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Campos Demonstrativos/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Dashboard",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Dashboard/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Dashboard/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Dashboard/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Dashboard/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Dashboard/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Eventos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Eventos/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Eventos/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Eventos/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Mapeamento",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Mapeamento/versao-6.2.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Mapeamento/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Mapeamento/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Mapeamento/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Mapeamento/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Mapeamento/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Planejamento Mercado",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Planejamento Mercado/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Planejamento Mercado/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Planejamento Mercado/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Planejamento Mercado/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Planejamento Mercado/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "POG",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "POG/versao-6.2.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POG/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POG/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POG/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "POG/versao-6.2.5"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Previsão de Vendas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Previsão de Vendas/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Rateio de Metas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.0"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.1"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.3"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.5"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.6"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Rateio de Metas/versao-6.2.7"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "Venda Cruzada",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Venda Cruzada/6.2.7"
+                  }
+                ]
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "Administração/versao-6.2.0",
+              "id": "Administração/versao-6.2.0",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.0",
+              "description": "BIP-1652  Implementar padrões na API do Bipper.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.0.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.0",
+              "permalink": "/Administração/versao-6.2.0",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Introdução",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Administração/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.1",
+              "id": "Administração/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "BIP-1227  Permitir o cadastramento ou relacionamento de contatos no cadastro de grupos de cliente.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.1.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.1",
+              "permalink": "/Administração/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Administração/versao-6.2.0"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Administração/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.2",
+              "id": "Administração/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "BIP-2263  Criar cadastro de conteúdos.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.2.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.2",
+              "permalink": "/Administração/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Administração/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Administração/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.3",
+              "id": "Administração/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "BIP-2290  Criar página inicial dinâmica para os módulos do sistema, que permita gerenciar conteúdos dinamicamente.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.3.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.3",
+              "permalink": "/Administração/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Administração/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.4",
+                "permalink": "/Administração/versao-6.2.4"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.4",
+              "id": "Administração/versao-6.2.4",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.4",
+              "description": "BIP-90  Nova splashscreen e tela de login truchoice.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.4.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.4",
+              "permalink": "/Administração/versao-6.2.4",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Administração/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Administração/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.5",
+              "id": "Administração/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "BIP-71  Ajustes na tela de cadastro de tipo de cliente.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.5.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.5",
+              "permalink": "/Administração/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.4",
+                "permalink": "/Administração/versao-6.2.4"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Administração/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.6",
+              "id": "Administração/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "BIP-755  Revisar processos da telas onde são executadas tarefas apenas para clientes ATIVOS.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.6.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.6",
+              "permalink": "/Administração/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Administração/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Administração/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Administração/versao-6.2.7",
+              "id": "Administração/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-796  Ajuste de nomenclatura e correção de consulta no cadastro de workflow.",
+              "source": "@site/docs\\10 - Administração\\versao-6.2.7.md",
+              "sourceDirName": "10 - Administração",
+              "slug": "/Administração/versao-6.2.7",
+              "permalink": "/Administração/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Administração/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Auditoria/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Auditoria/versao-6.2.3",
+              "id": "Auditoria/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "BIP-2270 Ajustar sincronização para baixar apenas localizações referentes às campanhas de auditoria.",
+              "source": "@site/docs/20 - Auditoria/versao-6.2.3.md",
+              "sourceDirName": "20 - Auditoria",
+              "slug": "/Auditoria/versao-6.2.3",
+              "permalink": "/Auditoria/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Administração/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Auditoria/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Auditoria/versao-6.2.6",
+              "id": "Auditoria/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "BIP-573 Erro ao acessar o módulo de Auditoria.",
+              "source": "@site/docs/20 - Auditoria/versao-6.2.6.md",
+              "sourceDirName": "20 - Auditoria",
+              "slug": "/Auditoria/versao-6.2.6",
+              "permalink": "/Auditoria/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Auditoria/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Broca Cana/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Broca Cana/versao-6.2.1",
+              "id": "Broca Cana/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "BIP-2150 Permitir upload de valores decimais nos dados de leitura da armadilha.",
+              "source": "@site/docs/30 - Broca Cana/versao-6.2.1.md",
+              "sourceDirName": "30 - Broca Cana",
+              "slug": "/Broca Cana/versao-6.2.1",
+              "permalink": "/Broca Cana/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Auditoria/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Broca Cana/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Broca Cana/versao-6.2.5",
+              "id": "Broca Cana/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "BIP-87 Erro ao sincronizar novo participante (BrocaCanaApp).",
+              "source": "@site/docs/30 - Broca Cana/versao-6.2.5.md",
+              "sourceDirName": "30 - Broca Cana",
+              "slug": "/Broca Cana/versao-6.2.5",
+              "permalink": "/Broca Cana/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Broca Cana/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Broca Cana/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Broca Cana/versao-6.2.7",
+              "id": "Broca Cana/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-840 Autenticação biométrica para o aplicativo Broca Cana.",
+              "source": "@site/docs/30 - Broca Cana/versao-6.2.7.md",
+              "sourceDirName": "30 - Broca Cana",
+              "slug": "/Broca Cana/versao-6.2.7",
+              "permalink": "/Broca Cana/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Broca Cana/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Campanha Marketing/versao-6.2.0"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.0",
+              "id": "Campanha Marketing/versao-6.2.0",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.0",
+              "description": "BIP-2141 Permitir ao administrador do sistema de campanhas de MKT incluir NFs no sistema.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.0.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.0",
+              "permalink": "/Campanha Marketing/versao-6.2.0",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Broca Cana/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Campanha Marketing/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.1",
+              "id": "Campanha Marketing/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "BIP-1564 Criar relatório na central de integração para baixar documentos de aceite da campanha.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.1.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.1",
+              "permalink": "/Campanha Marketing/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Campanha Marketing/versao-6.2.0"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Campanha Marketing/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.2",
+              "id": "Campanha Marketing/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "BIP-2079 Incluir relações \"RTC/TC\" e área plantada no relatório de cooperantes.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.2.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.2",
+              "permalink": "/Campanha Marketing/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Campanha Marketing/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Campanha Marketing/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.3",
+              "id": "Campanha Marketing/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "BIP-1726 Incluir coluna para informar gestor no grid de relações de RTV e Estrutura Técnica.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.3.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.3",
+              "permalink": "/Campanha Marketing/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Campanha Marketing/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Campanha Marketing/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.5",
+              "id": "Campanha Marketing/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "BIP-61 Alterar o campo de tipo de cliente da tela de solicitação.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.5.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.5",
+              "permalink": "/Campanha Marketing/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Campanha Marketing/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Campanha Marketing/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.6",
+              "id": "Campanha Marketing/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "BIP-80 Alteração da Guia de cadastro de cliente.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.6.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.6",
+              "permalink": "/Campanha Marketing/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Campanha Marketing/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Campanha Marketing/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Campanha Marketing/versao-6.2.7",
+              "id": "Campanha Marketing/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-678 Implementar nova página baseada na de Plano de Metas.",
+              "source": "@site/docs/40 - Campanha Marketing/versao-6.2.7.md",
+              "sourceDirName": "40 - Campanha Marketing",
+              "slug": "/Campanha Marketing/versao-6.2.7",
+              "permalink": "/Campanha Marketing/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Campanha Marketing/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Campos Demonstrativos/versao-6.2.0"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.0",
+              "id": "Campos Demonstrativos/versao-6.2.0",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.0",
+              "description": "BIP-1891 Ajustar sincronização do app campo demonstrativo na API",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.0.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.0",
+              "permalink": "/Campos Demonstrativos/versao-6.2.0",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Campanha Marketing/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Campos Demonstrativos/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.1",
+              "id": "Campos Demonstrativos/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "BIP-2235 Incluir o campo \"Data Colheita\" no relatório \"Campos Demonstrativos\".",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.1.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.1",
+              "permalink": "/Campos Demonstrativos/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Campos Demonstrativos/versao-6.2.0"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Campos Demonstrativos/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.2",
+              "id": "Campos Demonstrativos/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "BIP-2302 Incluir filtro e novos campos no relatório de positivação.",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.2.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.2",
+              "permalink": "/Campos Demonstrativos/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Campos Demonstrativos/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Campos Demonstrativos/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.3",
+              "id": "Campos Demonstrativos/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "BIP-2368 Implementar no modulo de inicialização da página uma padronização.",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.3.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.3",
+              "permalink": "/Campos Demonstrativos/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Campos Demonstrativos/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Campos Demonstrativos/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.5",
+              "id": "Campos Demonstrativos/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "BIP-84 Ajustar login Campos Demonstrativos IOS.",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.5.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.5",
+              "permalink": "/Campos Demonstrativos/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Campos Demonstrativos/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Campos Demonstrativos/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.6",
+              "id": "Campos Demonstrativos/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "BIP-778 Autenticação biométrica campos demonstrativos.",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.6.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.6",
+              "permalink": "/Campos Demonstrativos/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Campos Demonstrativos/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Campos Demonstrativos/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Campos Demonstrativos/versao-6.2.7",
+              "id": "Campos Demonstrativos/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-689 Telas que utilizam o OpenStreetMap estão gerando os tiles do mapa com o protocolo http, o que gera alguns warnings.",
+              "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.7.md",
+              "sourceDirName": "50 - Campos Demonstrativos",
+              "slug": "/Campos Demonstrativos/versao-6.2.7",
+              "permalink": "/Campos Demonstrativos/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Campos Demonstrativos/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Dashboard/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Dashboard/versao-6.2.1",
+              "id": "Dashboard/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "BIP-2285 Criar controle de agrupamento na estrutura de painéis.",
+              "source": "@site/docs/60 - Dashboard/versao-6.2.1.md",
+              "sourceDirName": "60 - Dashboard",
+              "slug": "/Dashboard/versao-6.2.1",
+              "permalink": "/Dashboard/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Campos Demonstrativos/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Dashboard/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Dashboard/versao-6.2.2",
+              "id": "Dashboard/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "BIP-2301 Permitir visualizar painéis criados na plataforma \"Power BI\".",
+              "source": "@site/docs/60 - Dashboard/versao-6.2.2.md",
+              "sourceDirName": "60 - Dashboard",
+              "slug": "/Dashboard/versao-6.2.2",
+              "permalink": "/Dashboard/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Dashboard/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Dashboard/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Dashboard/versao-6.2.3",
+              "id": "Dashboard/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "BIP-2363  Editar painel que tenha agrupamento nas configurações do Dashboard.",
+              "source": "@site/docs/60 - Dashboard/versao-6.2.3.md",
+              "sourceDirName": "60 - Dashboard",
+              "slug": "/Dashboard/versao-6.2.3",
+              "permalink": "/Dashboard/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Dashboard/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Dashboard/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Dashboard/versao-6.2.5",
+              "id": "Dashboard/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "BIP-265  Incluir conceito de \"% Variação\" no dashboard do planejamento de mercado da linha de defensivos",
+              "source": "@site/docs/60 - Dashboard/versao-6.2.5.md",
+              "sourceDirName": "60 - Dashboard",
+              "slug": "/Dashboard/versao-6.2.5",
+              "permalink": "/Dashboard/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Dashboard/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Dashboard/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Dashboard/versao-6.2.7",
+              "id": "Dashboard/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-1001  Criar parâmetro para definir o tipo de ano que será exibido por padrão na página de Dashboard Inicial.",
+              "source": "@site/docs/60 - Dashboard/versao-6.2.7.md",
+              "sourceDirName": "60 - Dashboard",
+              "slug": "/Dashboard/versao-6.2.7",
+              "permalink": "/Dashboard/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Dashboard/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Eventos/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Eventos/versao-6.2.5",
+              "id": "Eventos/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "Melhorias",
+              "source": "@site/docs/70 - Eventos/versao-6.2.5.md",
+              "sourceDirName": "70 - Eventos",
+              "slug": "/Eventos/versao-6.2.5",
+              "permalink": "/Eventos/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Dashboard/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Eventos/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Eventos/versao-6.2.6",
+              "id": "Eventos/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "Correções",
+              "source": "@site/docs/70 - Eventos/versao-6.2.6.md",
+              "sourceDirName": "70 - Eventos",
+              "slug": "/Eventos/versao-6.2.6",
+              "permalink": "/Eventos/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Eventos/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Eventos/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Eventos/versao-6.2.7",
+              "id": "Eventos/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "Correções",
+              "source": "@site/docs/70 - Eventos/versao-6.2.7.md",
+              "sourceDirName": "70 - Eventos",
+              "slug": "/Eventos/versao-6.2.7",
+              "permalink": "/Eventos/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Eventos/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Mapeamento/versao-6.2.0"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Introdução",
+              "description": "Em poucas palavras, um release é um documento disponibilizado para nossos clientes, com o intuito de informa-los sobre as melhorias, correções ou qualquer outra novidade adicionada ao sistema BIPPER.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Administração/versao-6.2.0"
+              }
+            },
+            {
+              "unversionedId": "Mapeamento/versao-6.2.0",
+              "id": "Mapeamento/versao-6.2.0",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.0",
+              "description": "Melhorias",
+              "source": "@site/docs/80 - Mapeamento/versao-6.2.0.md",
+              "sourceDirName": "80 - Mapeamento",
+              "slug": "/Mapeamento/versao-6.2.0",
+              "permalink": "/Mapeamento/versao-6.2.0",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Eventos/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Mapeamento/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Mapeamento/versao-6.2.1",
+              "id": "Mapeamento/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "Melhorias",
+              "source": "@site/docs/80 - Mapeamento/versao-6.2.1.md",
+              "sourceDirName": "80 - Mapeamento",
+              "slug": "/Mapeamento/versao-6.2.1",
+              "permalink": "/Mapeamento/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Mapeamento/versao-6.2.0"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Mapeamento/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Mapeamento/versao-6.2.2",
+              "id": "Mapeamento/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "Melhorias",
+              "source": "@site/docs/80 - Mapeamento/versao-6.2.2.md",
+              "sourceDirName": "80 - Mapeamento",
+              "slug": "/Mapeamento/versao-6.2.2",
+              "permalink": "/Mapeamento/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Mapeamento/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Mapeamento/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Mapeamento/versao-6.2.5",
+              "id": "Mapeamento/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "Correções",
+              "source": "@site/docs/80 - Mapeamento/versao-6.2.5.md",
+              "sourceDirName": "80 - Mapeamento",
+              "slug": "/Mapeamento/versao-6.2.5",
+              "permalink": "/Mapeamento/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Mapeamento/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Mapeamento/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Mapeamento/versao-6.2.6",
+              "id": "Mapeamento/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "Melhorias",
+              "source": "@site/docs/80 - Mapeamento/versao-6.2.6.md",
+              "sourceDirName": "80 - Mapeamento",
+              "slug": "/Mapeamento/versao-6.2.6",
+              "permalink": "/Mapeamento/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Mapeamento/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Mapeamento/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Mapeamento/versao-6.2.7",
+              "id": "Mapeamento/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-771 Erro de javascript ao carregar o Mapa da tela de diagnóstico de atuação.",
+              "source": "@site/docs/80 - Mapeamento/versao-6.2.7.md",
+              "sourceDirName": "80 - Mapeamento",
+              "slug": "/Mapeamento/versao-6.2.7",
+              "permalink": "/Mapeamento/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Mapeamento/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Planejamento Mercado/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Planejamento Mercado/versao-6.2.2",
+              "id": "Planejamento Mercado/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "Melhorias",
+              "source": "@site/docs/90 - Planejamento Mercado/versao-6.2.2.md",
+              "sourceDirName": "90 - Planejamento Mercado",
+              "slug": "/Planejamento Mercado/versao-6.2.2",
+              "permalink": "/Planejamento Mercado/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Mapeamento/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Planejamento Mercado/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Planejamento Mercado/versao-6.2.3",
+              "id": "Planejamento Mercado/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "Correções",
+              "source": "@site/docs/90 - Planejamento Mercado/versao-6.2.3.md",
+              "sourceDirName": "90 - Planejamento Mercado",
+              "slug": "/Planejamento Mercado/versao-6.2.3",
+              "permalink": "/Planejamento Mercado/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Planejamento Mercado/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Planejamento Mercado/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Planejamento Mercado/versao-6.2.5",
+              "id": "Planejamento Mercado/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "Melhorias",
+              "source": "@site/docs/90 - Planejamento Mercado/versao-6.2.5.md",
+              "sourceDirName": "90 - Planejamento Mercado",
+              "slug": "/Planejamento Mercado/versao-6.2.5",
+              "permalink": "/Planejamento Mercado/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Planejamento Mercado/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Planejamento Mercado/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Planejamento Mercado/versao-6.2.6",
+              "id": "Planejamento Mercado/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "Melhorias",
+              "source": "@site/docs/90 - Planejamento Mercado/versao-6.2.6.md",
+              "sourceDirName": "90 - Planejamento Mercado",
+              "slug": "/Planejamento Mercado/versao-6.2.6",
+              "permalink": "/Planejamento Mercado/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Planejamento Mercado/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Planejamento Mercado/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Planejamento Mercado/versao-6.2.7",
+              "id": "Planejamento Mercado/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "Melhorias",
+              "source": "@site/docs/90 - Planejamento Mercado/versao-6.2.7.md",
+              "sourceDirName": "90 - Planejamento Mercado",
+              "slug": "/Planejamento Mercado/versao-6.2.7",
+              "permalink": "/Planejamento Mercado/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Planejamento Mercado/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.0",
+                "permalink": "/POG/versao-6.2.0"
+              }
+            },
+            {
+              "unversionedId": "POG/versao-6.2.0",
+              "id": "POG/versao-6.2.0",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.0",
+              "description": "Melhorias",
+              "source": "@site/docs/100 - POG/versao-6.2.0.md",
+              "sourceDirName": "100 - POG",
+              "slug": "/POG/versao-6.2.0",
+              "permalink": "/POG/versao-6.2.0",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Planejamento Mercado/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/POG/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "POG/versao-6.2.1",
+              "id": "POG/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "Melhorias",
+              "source": "@site/docs/100 - POG/versao-6.2.1.md",
+              "sourceDirName": "100 - POG",
+              "slug": "/POG/versao-6.2.1",
+              "permalink": "/POG/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.0",
+                "permalink": "/POG/versao-6.2.0"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/POG/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "POG/versao-6.2.2",
+              "id": "POG/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "Melhorias",
+              "source": "@site/docs/100 - POG/versao-6.2.2.md",
+              "sourceDirName": "100 - POG",
+              "slug": "/POG/versao-6.2.2",
+              "permalink": "/POG/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/POG/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/POG/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "POG/versao-6.2.3",
+              "id": "POG/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "Correções",
+              "source": "@site/docs/100 - POG/versao-6.2.3.md",
+              "sourceDirName": "100 - POG",
+              "slug": "/POG/versao-6.2.3",
+              "permalink": "/POG/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/POG/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/POG/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "POG/versao-6.2.5",
+              "id": "POG/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "Correções",
+              "source": "@site/docs/100 - POG/versao-6.2.5.md",
+              "sourceDirName": "100 - POG",
+              "slug": "/POG/versao-6.2.5",
+              "permalink": "/POG/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/POG/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Previsão de Vendas/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Previsão de Vendas/versao-6.2.7",
+              "id": "Previsão de Vendas/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "BIP-1169  Corrigir cadastro de cliente.",
+              "source": "@site/docs\\110 - Previsão de Vendas\\versao-6.2.7.md",
+              "sourceDirName": "110 - Previsão de Vendas",
+              "slug": "/Previsão de Vendas/versao-6.2.7",
+              "permalink": "/Previsão de Vendas/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/POG/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Rateio de Metas/versao-6.2.0"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.0",
+              "id": "Rateio de Metas/versao-6.2.0",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.0",
+              "description": "Melhorias",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.0.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.0",
+              "permalink": "/Rateio de Metas/versao-6.2.0",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Previsão de Vendas/versao-6.2.7"
+              },
+              "next": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Rateio de Metas/versao-6.2.1"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.1",
+              "id": "Rateio de Metas/versao-6.2.1",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.1",
+              "description": "Melhorias",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.1.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.1",
+              "permalink": "/Rateio de Metas/versao-6.2.1",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.0",
+                "permalink": "/Rateio de Metas/versao-6.2.0"
+              },
+              "next": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Rateio de Metas/versao-6.2.2"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.2",
+              "id": "Rateio de Metas/versao-6.2.2",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.2",
+              "description": "Melhorias",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.2.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.2",
+              "permalink": "/Rateio de Metas/versao-6.2.2",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.1",
+                "permalink": "/Rateio de Metas/versao-6.2.1"
+              },
+              "next": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Rateio de Metas/versao-6.2.3"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.3",
+              "id": "Rateio de Metas/versao-6.2.3",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.3",
+              "description": "Correções",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.3.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.3",
+              "permalink": "/Rateio de Metas/versao-6.2.3",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.2",
+                "permalink": "/Rateio de Metas/versao-6.2.2"
+              },
+              "next": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Rateio de Metas/versao-6.2.5"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.5",
+              "id": "Rateio de Metas/versao-6.2.5",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.5",
+              "description": "Melhorias",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.5.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.5",
+              "permalink": "/Rateio de Metas/versao-6.2.5",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.3",
+                "permalink": "/Rateio de Metas/versao-6.2.3"
+              },
+              "next": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Rateio de Metas/versao-6.2.6"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.6",
+              "id": "Rateio de Metas/versao-6.2.6",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.6",
+              "description": "Melhorias",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.6.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.6",
+              "permalink": "/Rateio de Metas/versao-6.2.6",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.5",
+                "permalink": "/Rateio de Metas/versao-6.2.5"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Rateio de Metas/versao-6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Rateio de Metas/versao-6.2.7",
+              "id": "Rateio de Metas/versao-6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "Melhorias",
+              "source": "@site/docs/120 - Rateio de Metas/versao-6.2.7.md",
+              "sourceDirName": "120 - Rateio de Metas",
+              "slug": "/Rateio de Metas/versao-6.2.7",
+              "permalink": "/Rateio de Metas/versao-6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.6",
+                "permalink": "/Rateio de Metas/versao-6.2.6"
+              },
+              "next": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Venda Cruzada/6.2.7"
+              }
+            },
+            {
+              "unversionedId": "Venda Cruzada/6.2.7",
+              "id": "Venda Cruzada/6.2.7",
+              "isDocsHomePage": false,
+              "title": "Versão 6.2.7",
+              "description": "Melhorias",
+              "source": "@site/docs/130 - Venda Cruzada/6.2.7.md",
+              "sourceDirName": "130 - Venda Cruzada",
+              "slug": "/Venda Cruzada/6.2.7",
+              "permalink": "/Venda Cruzada/6.2.7",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Versão 6.2.7",
+                "permalink": "/Rateio de Metas/versao-6.2.7"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  },
+  "docusaurus-theme-search-algolia": {
+    "default": null
+  }
+}

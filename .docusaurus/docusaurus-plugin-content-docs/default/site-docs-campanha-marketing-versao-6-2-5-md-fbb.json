@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campanha Marketing/versao-6.2.5",
+  "id": "Campanha Marketing/versao-6.2.5",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.5",
+  "description": "BIP-61 Alterar o campo de tipo de cliente da tela de solicitação.",
+  "source": "@site/docs/Campanha Marketing/versao-6.2.5.md",
+  "sourceDirName": "Campanha Marketing",
+  "slug": "/Campanha Marketing/versao-6.2.5",
+  "permalink": "/Campanha Marketing/versao-6.2.5",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.3",
+    "permalink": "/Campanha Marketing/versao-6.2.3"
+  },
+  "next": {
+    "title": "Versão 6.2.6",
+    "permalink": "/Campanha Marketing/versao-6.2.6"
+  }
+}

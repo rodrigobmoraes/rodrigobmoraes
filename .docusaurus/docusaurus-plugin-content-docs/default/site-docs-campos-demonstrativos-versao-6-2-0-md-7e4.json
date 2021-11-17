@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campos Demonstrativos/versao-6.2.0",
+  "id": "Campos Demonstrativos/versao-6.2.0",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.0",
+  "description": "BIP-1891 Ajustar sincronização do app campo demonstrativo na API",
+  "source": "@site/docs/Campos Demonstrativos/versao-6.2.0.md",
+  "sourceDirName": "Campos Demonstrativos",
+  "slug": "/Campos Demonstrativos/versao-6.2.0",
+  "permalink": "/Campos Demonstrativos/versao-6.2.0",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.7",
+    "permalink": "/Campanha Marketing/versao-6.2.7"
+  },
+  "next": {
+    "title": "Versão 6.2.1",
+    "permalink": "/Campos Demonstrativos/versao-6.2.1"
+  }
+}

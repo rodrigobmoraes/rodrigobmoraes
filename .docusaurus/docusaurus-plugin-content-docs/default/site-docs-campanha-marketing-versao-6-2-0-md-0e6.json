@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campanha Marketing/versao-6.2.0",
+  "id": "Campanha Marketing/versao-6.2.0",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.0",
+  "description": "BIP-2141 Permitir ao administrador do sistema de campanhas de MKT incluir NFs no sistema.",
+  "source": "@site/docs/Campanha Marketing/versao-6.2.0.md",
+  "sourceDirName": "Campanha Marketing",
+  "slug": "/Campanha Marketing/versao-6.2.0",
+  "permalink": "/Campanha Marketing/versao-6.2.0",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.7",
+    "permalink": "/Broca Cana/versao-6.2.7"
+  },
+  "next": {
+    "title": "Versão 6.2.1",
+    "permalink": "/Campanha Marketing/versao-6.2.1"
+  }
+}

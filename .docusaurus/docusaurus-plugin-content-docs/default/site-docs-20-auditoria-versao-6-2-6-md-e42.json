@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Auditoria/versao-6.2.6",
+  "id": "Auditoria/versao-6.2.6",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.6",
+  "description": "BIP-573 Erro ao acessar o módulo de Auditoria.",
+  "source": "@site/docs/20 - Auditoria/versao-6.2.6.md",
+  "sourceDirName": "20 - Auditoria",
+  "slug": "/Auditoria/versao-6.2.6",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.6",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.3",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.3"
+  },
+  "next": {
+    "title": "Versão 6.2.1",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.1"
+  }
+}

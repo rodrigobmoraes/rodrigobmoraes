@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campos Demonstrativos/versao-6.2.5",
+  "id": "Campos Demonstrativos/versao-6.2.5",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.5",
+  "description": "BIP-84 Ajustar login Campos Demonstrativos IOS.",
+  "source": "@site/docs/Campos Demonstrativos/versao-6.2.5.md",
+  "sourceDirName": "Campos Demonstrativos",
+  "slug": "/Campos Demonstrativos/versao-6.2.5",
+  "permalink": "/Campos Demonstrativos/versao-6.2.5",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.3",
+    "permalink": "/Campos Demonstrativos/versao-6.2.3"
+  },
+  "next": {
+    "title": "Versão 6.2.6",
+    "permalink": "/Campos Demonstrativos/versao-6.2.6"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Rateio de Metas/versao-6.2.7",
+  "id": "Rateio de Metas/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "Melhorias",
+  "source": "@site/docs/120 - Rateio de Metas/versao-6.2.7.md",
+  "sourceDirName": "120 - Rateio de Metas",
+  "slug": "/Rateio de Metas/versao-6.2.7",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.6",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.6"
+  },
+  "next": {
+    "title": "Versão 6.2.7",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/6.2.7"
+  }
+}

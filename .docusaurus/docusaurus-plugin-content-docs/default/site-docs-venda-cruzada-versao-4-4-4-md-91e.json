@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Venda Cruzada/versao-4.4.4",
+  "id": "Venda Cruzada/versao-4.4.4",
+  "isDocsHomePage": false,
+  "title": "Versão 4.4.4",
+  "description": "Melhorias",
+  "source": "@site/docs/Venda Cruzada/versao-4.4.4.md",
+  "sourceDirName": "Venda Cruzada",
+  "slug": "/Venda Cruzada/versao-4.4.4",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/versao-4.4.4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 4.4.4",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-4.4.4"
+  }
+}

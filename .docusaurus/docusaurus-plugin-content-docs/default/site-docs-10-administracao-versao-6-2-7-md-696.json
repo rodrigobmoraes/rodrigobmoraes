@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Administração/versao-6.2.7",
+  "id": "Administração/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "BIP-796  Ajuste de nomenclatura e correção de consulta no cadastro de workflow.",
+  "source": "@site/docs\\10 - Administração\\versao-6.2.7.md",
+  "sourceDirName": "10 - Administração",
+  "slug": "/Administração/versao-6.2.7",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.6",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.6"
+  },
+  "next": {
+    "title": "Versão 6.2.3",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.3"
+  }
+}

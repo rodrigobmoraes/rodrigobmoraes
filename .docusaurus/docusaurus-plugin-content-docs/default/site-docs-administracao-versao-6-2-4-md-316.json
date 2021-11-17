@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Administração/versao-6.2.4",
+  "id": "Administração/versao-6.2.4",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.4",
+  "description": "BIP-90  Nova splashscreen e tela de login truchoice.",
+  "source": "@site/docs\\Administração\\versao-6.2.4.md",
+  "sourceDirName": "Administração",
+  "slug": "/Administração/versao-6.2.4",
+  "permalink": "/Administração/versao-6.2.4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.3",
+    "permalink": "/Administração/versao-6.2.3"
+  },
+  "next": {
+    "title": "Versão 6.2.5",
+    "permalink": "/Administração/versao-6.2.5"
+  }
+}

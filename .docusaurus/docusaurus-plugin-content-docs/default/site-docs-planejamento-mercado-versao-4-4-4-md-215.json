@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Planejamento Mercado/versao-4.4.4",
+  "id": "Planejamento Mercado/versao-4.4.4",
+  "isDocsHomePage": false,
+  "title": "Versão 4.4.4",
+  "description": "Melhorias",
+  "source": "@site/docs/Planejamento Mercado/versao-4.4.4.md",
+  "sourceDirName": "Planejamento Mercado",
+  "slug": "/Planejamento Mercado/versao-4.4.4",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-4.4.4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 4.4.4",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-4.4.4"
+  },
+  "next": {
+    "title": "Versão 4.4.4",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-4.4.4"
+  }
+}

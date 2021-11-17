@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Previsão de Vendas/versao-6.2.7",
+  "id": "Previsão de Vendas/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "BIP-1169  Corrigir cadastro de cliente.",
+  "source": "@site/docs\\110 - Previsão de Vendas\\versao-6.2.7.md",
+  "sourceDirName": "110 - Previsão de Vendas",
+  "slug": "/Previsão de Vendas/versao-6.2.7",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Previsão de Vendas/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.5",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.5"
+  },
+  "next": {
+    "title": "Versão 6.2.0",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.0"
+  }
+}

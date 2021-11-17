@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Administração/versao-4.4.4",
+  "id": "Administração/versao-4.4.4",
+  "isDocsHomePage": false,
+  "title": "Versão 4.4.4",
+  "description": "Melhorias",
+  "source": "@site/docs\\Administração\\versao-4.4.4.md",
+  "sourceDirName": "Administração",
+  "slug": "/Administração/versao-4.4.4",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-4.4.4",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.7",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/6.2.7"
+  },
+  "next": {
+    "title": "Versão 4.4.4",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-4.4.4"
+  }
+}

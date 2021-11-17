@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campanha Marketing/versao-6.2.3",
+  "id": "Campanha Marketing/versao-6.2.3",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.3",
+  "description": "BIP-1726 Incluir coluna para informar gestor no grid de relações de RTV e Estrutura Técnica.",
+  "source": "@site/docs/Campanha Marketing/versao-6.2.3.md",
+  "sourceDirName": "Campanha Marketing",
+  "slug": "/Campanha Marketing/versao-6.2.3",
+  "permalink": "/Campanha Marketing/versao-6.2.3",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.2",
+    "permalink": "/Campanha Marketing/versao-6.2.2"
+  },
+  "next": {
+    "title": "Versão 6.2.5",
+    "permalink": "/Campanha Marketing/versao-6.2.5"
+  }
+}

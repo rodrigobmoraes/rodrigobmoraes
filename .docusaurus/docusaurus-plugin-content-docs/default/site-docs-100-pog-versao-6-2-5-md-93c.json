@@ -1,0 +1,26 @@
+{
+  "unversionedId": "POG/versao-6.2.5",
+  "id": "POG/versao-6.2.5",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.5",
+  "description": "Correções",
+  "source": "@site/docs/100 - POG/versao-6.2.5.md",
+  "sourceDirName": "100 - POG",
+  "slug": "/POG/versao-6.2.5",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.5",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.3",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.3"
+  },
+  "next": {
+    "title": "Versão 6.2.7",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Previsão de Vendas/versao-6.2.7"
+  }
+}

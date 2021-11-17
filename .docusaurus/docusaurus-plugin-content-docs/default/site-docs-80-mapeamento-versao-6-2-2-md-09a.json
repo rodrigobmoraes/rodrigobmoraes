@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Mapeamento/versao-6.2.2",
+  "id": "Mapeamento/versao-6.2.2",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.2",
+  "description": "Melhorias",
+  "source": "@site/docs/80 - Mapeamento/versao-6.2.2.md",
+  "sourceDirName": "80 - Mapeamento",
+  "slug": "/Mapeamento/versao-6.2.2",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.2",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.1",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.1"
+  },
+  "next": {
+    "title": "Versão 6.2.5",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.5"
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Administração/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.0",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Administração/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Auditoria/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Auditoria/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Auditoria/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Broca Cana/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Broca Cana/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Broca Cana/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Broca Cana/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.0",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campanha Marketing/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.0",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Campos Demonstrativos/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dashboard/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dashboard/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dashboard/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dashboard/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dashboard/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dashboard/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eventos/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eventos/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eventos/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Eventos/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-6.2.0",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Mapeamento/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Planejamento Mercado/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Planejamento Mercado/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Planejamento Mercado/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Planejamento Mercado/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Planejamento Mercado/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Planejamento Mercado/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POG/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POG/versao-6.2.0",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POG/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POG/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POG/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "POG/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Previsão de Vendas/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Previsão de Vendas/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.0",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.0",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.1",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.2",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.3",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.5",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.6",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Rateio de Metas/versao-6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Venda Cruzada/6.2.7",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/6.2.7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Venda Cruzada/versao-4.4.4",
+              "path": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/versao-4.4.4",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

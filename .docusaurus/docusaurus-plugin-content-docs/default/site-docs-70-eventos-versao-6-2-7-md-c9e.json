@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Eventos/versao-6.2.7",
+  "id": "Eventos/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "Correções",
+  "source": "@site/docs/70 - Eventos/versao-6.2.7.md",
+  "sourceDirName": "70 - Eventos",
+  "slug": "/Eventos/versao-6.2.7",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.6",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.6"
+  },
+  "next": {
+    "title": "Versão 6.2.0",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Administração/versao-6.2.0",
+  "id": "Administração/versao-6.2.0",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.0",
+  "description": "BIP-1652  Implementar padrões na API do Bipper.",
+  "source": "@site/docs\\10 - Administração\\versao-6.2.0.md",
+  "sourceDirName": "10 - Administração",
+  "slug": "/Administração/versao-6.2.0",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.0",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introdução",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/"
+  },
+  "next": {
+    "title": "Versão 6.2.1",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.1"
+  }
+}

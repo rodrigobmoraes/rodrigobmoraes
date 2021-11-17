@@ -1,0 +1,578 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introdução",
+        "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/"
+      },
+      {
+        "type": "category",
+        "label": "Administração",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.0",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.0"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.4"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Auditoria",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-6.2.6"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Broca Cana",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Campanha Marketing",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.0",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.0"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Campos Demonstrativos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.0",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.0"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Dashboard",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Eventos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Mapeamento",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.0",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.0"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Planejamento Mercado",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "POG",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.0",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.0"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-6.2.5"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Previsão de Vendas",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Previsão de Vendas/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Rateio de Metas",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.0",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.0"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.1",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.1"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.2",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.2"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.3",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.3"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.5",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.5"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.6",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.6"
+          },
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Venda Cruzada",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 6.2.7",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/6.2.7"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Administração",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Administração/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Auditoria",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Auditoria/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Broca Cana",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Broca Cana/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Campanha Marketing",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campanha Marketing/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Campos Demonstrativos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Dashboard",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Eventos",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Eventos/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Mapeamento",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Mapeamento/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Planejamento Mercado",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Planejamento Mercado/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "POG",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/POG/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Rateio de Metas",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Rateio de Metas/versao-4.4.4"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Venda Cruzada",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Versão 4.4.4",
+            "href": "https://rodrigobmoraes.github.io/rodrigobmoraes/Venda Cruzada/versao-4.4.4"
+          }
+        ]
+      }
+    ]
+  }
+}

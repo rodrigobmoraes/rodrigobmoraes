@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Campos Demonstrativos/versao-6.2.7",
+  "id": "Campos Demonstrativos/versao-6.2.7",
+  "isDocsHomePage": false,
+  "title": "Versão 6.2.7",
+  "description": "BIP-689 Telas que utilizam o OpenStreetMap estão gerando os tiles do mapa com o protocolo http, o que gera alguns warnings.",
+  "source": "@site/docs/50 - Campos Demonstrativos/versao-6.2.7.md",
+  "sourceDirName": "50 - Campos Demonstrativos",
+  "slug": "/Campos Demonstrativos/versao-6.2.7",
+  "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.7",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Versão 6.2.6",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Campos Demonstrativos/versao-6.2.6"
+  },
+  "next": {
+    "title": "Versão 6.2.1",
+    "permalink": "https://rodrigobmoraes.github.io/rodrigobmoraes/Dashboard/versao-6.2.1"
+  }
+}
