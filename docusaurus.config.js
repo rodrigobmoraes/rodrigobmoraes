@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'Bipper',
     tagline: 'Sua Solução em business intelligence',
-    url: 'https://rodrigobmoraes.github.io',
-    baseUrl: '/rodrigobmoraes/',
+    url: 'http://192.168.16.148:3000',
+    baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon-bipper.ico',
-    organizationName: 'rodrigobmoraes', // Usually your GitHub org/user name.
-    projectName: 'rodrigobmoraes', // Usually your repo name.
+    organizationName: 'uppercase', // Usually your GitHub org/user name.
+    projectName: 'bipper-release', // Usually your repo name.
 
     presets: [
         [
@@ -39,13 +39,24 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+      ({
+          algolia: {
+              apiKey: 'bbc1927d234a45ddb80b1f7b1a492ddb',
+              indexName: 'uppercase',
+              contextualSearch: true,
+              externalUrlRegex: '',
+              placeholder: 'Pesquisar',
+              appId: 'O8N8I61SOO',
+              searchParameters: {},
+          },
+
       navbar: {
-        title: 'Bipper',
+        title: 'BIPPER Releases',
         logo: {
           alt: 'Bipper Logo',
-          src: 'img/logo.jpg',
+          src: 'img/logo.png',
         },
+        /*
         items: [
           {
             type: 'doc',
@@ -53,13 +64,14 @@ const config = {
             position: 'left',
             label: 'Releases',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
-         /* {
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
-          },*/
+          },
         ],
+        */
       },
       footer: {
         style: 'dark',
